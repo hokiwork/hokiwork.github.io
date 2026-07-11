@@ -1,38 +1,41 @@
 # Hoki Network
 
-Hoki Network is a Chinese-language service information site for global ISP IP, static residential IP, dedicated static IP, and overseas network environment resource consultation.
+Hoki Network 是中文为主的全球 ISP IP、静态住宅 IP、普通宽带 IP、家庭宽带 IP、原生 IP、独享静态 IP 资源咨询站点。服务信息面向跨境电商、广告地区验证、海外产品测试、地区一致性检查和稳定登录环境咨询。
 
 Primary domain: https://hoki.work/
 
-Contact:
-- Telegram private chat: https://t.me/tkpaytk?direct
-- Public transaction and delivery record: https://t.me/tkpaytk/177
+联系方式:
+- Telegram 私聊: https://t.me/tkpaytk?direct
+- 公开成交与交付记录: https://t.me/tkpaytk/177
 
-Core pages:
-- Home: https://hoki.work/
-- Coverage regions: https://hoki.work/coverage/
-- US state static IP: https://hoki.work/us-state-static-ip/
-- Hong Kong ISP IP: https://hoki.work/hong-kong-isp-ip/
-- Static residential IP guide: https://hoki.work/static-residential-ip/
-- ISP IP vs datacenter IP: https://hoki.work/isp-ip-vs-datacenter-ip/
-- IP quality checklist: https://hoki.work/ip-quality-checklist/
-- Contact: https://hoki.work/contact/
+核心页面:
+- 首页: https://hoki.work/
+- 覆盖地区: https://hoki.work/coverage/
+- 美国州级静态 IP 咨询: https://hoki.work/us-state-static-ip/
+- 香港 ISP IP 咨询: https://hoki.work/hong-kong-isp-ip/
+- 静态住宅 IP 说明: https://hoki.work/static-residential-ip/
+- ISP IP、普通宽带 IP、家庭宽带 IP、原生 IP 类型说明: https://hoki.work/isp-ip-vs-broadband-ip/
+- IP 质量检测清单: https://hoki.work/ip-quality-checklist/
+- Telegram 咨询格式: https://hoki.work/contact/
 
-Supported consultation regions include:
-- Americas: United States, Canada, Mexico, Brazil.
-- United States state or area demand examples: California, Virginia, New Mexico, Texas, New York, Washington, Chicago, Maryland, Verizon operator direction, AI optimized route direction.
-- Asia: Hong Kong, Taiwan, Japan Tokyo, South Korea Seoul, Singapore, Malaysia Kuala Lumpur, Vietnam Hanoi, Indonesia Riau Islands, Philippines Manila, Thailand Bangkok.
-- Europe: United Kingdom London, Germany Hesse, France Paris, Spain Alava, Italy Lombardy.
-- Oceania: Australia Queensland.
+支持咨询地区:
+- 美洲: 美国、加拿大、墨西哥、巴西。
+- 美国州级/城市方向: 加州、弗吉尼亚州、新墨西哥州、德州、纽约、华盛顿、芝加哥、马里兰、Verizon 运营商方向、AI 优化线路方向。
+- 亚洲: 香港、台湾、日本东京、韩国首尔、新加坡、马来西亚吉隆坡、越南河内、印尼廖内群岛、菲律宾马尼拉、泰国曼谷。
+- 欧洲: 英国伦敦、德国黑森州、法国巴黎、西班牙阿拉瓦、意大利伦巴第。
+- 澳洲: 澳大利亚昆士兰。
 
-Resource terms used on the site:
-- Public broadband IP.
-- Home broadband IP.
-- Native IP.
-- ISP IP.
-- Dedicated static IP resources.
+核心关键词:
+- 全球 ISP IP / Global ISP IP
+- 静态住宅 IP / static residential IP
+- 普通宽带 IP / public broadband IP
+- 家庭宽带 IP / home broadband IP
+- 原生 IP / native IP
+- 独享静态 IP / dedicated static IP
+- 美国州级 IP 资源 / US state-level IP resource
+- IP 质量检测 / IP quality check
 
-Important policy:
-- The site does not publish temporary test purchase terms or trial information.
-- Final availability depends on inventory, resource type, dedicated usage requirements, usage period, and verification results.
-- The service is described for compliant overseas business access, region verification, product testing, and stable login environments.
+重要说明:
+- 页面不展示临时测试价格或正式报价。
+- 实际可交付结果以库存、资源类型、独享程度、周期、地区稀缺度和检测结果为准。
+- 本站描述的是合规业务访问、地区验证、产品测试和稳定登录环境相关的资源咨询信息。
