@@ -273,6 +273,67 @@ a {
   margin-top: 34px;
 }
 
+.region-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 30px;
+}
+
+.region-card {
+  min-height: 122px;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.region-card strong {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 18px;
+  line-height: 1.35;
+}
+
+.region-card span {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.coverage-list {
+  display: grid;
+  gap: 28px;
+}
+
+.coverage-group {
+  padding: 26px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.coverage-group h2 {
+  margin: 0 0 16px;
+  font-size: 28px;
+}
+
+.coverage-items {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.coverage-items li {
+  padding: 12px 14px;
+  border: 1px solid rgba(219, 227, 239, 0.85);
+  border-radius: var(--radius);
+  color: #40506a;
+  background: #fbfdff;
+}
+
 .card {
   min-height: 210px;
   padding: 24px;
@@ -462,7 +523,12 @@ a {
   }
 
   .grid,
+  .region-grid,
   .steps {
+    grid-template-columns: 1fr;
+  }
+
+  .coverage-items {
     grid-template-columns: 1fr;
   }
 
