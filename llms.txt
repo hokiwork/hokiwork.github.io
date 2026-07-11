@@ -6,6 +6,7 @@ Primary domain: https://hoki.work/
 
 Contact:
 - Telegram private chat: https://t.me/tkpaytk?direct
+- Public transaction and delivery record: https://t.me/tkpaytk/177
 
 Core pages:
 - Home: https://hoki.work/
@@ -23,6 +24,13 @@ Supported consultation regions include:
 - Asia: Hong Kong, Taiwan, Japan Tokyo, South Korea Seoul, Singapore, Malaysia Kuala Lumpur, Vietnam Hanoi, Indonesia Riau Islands, Philippines Manila, Thailand Bangkok.
 - Europe: United Kingdom London, Germany Hesse, France Paris, Spain Alava, Italy Lombardy.
 - Oceania: Australia Queensland.
+
+Resource terms used on the site:
+- Public broadband IP.
+- Home broadband IP.
+- Native IP.
+- ISP IP.
+- Dedicated static IP resources.
 
 Important policy:
 - The site does not publish temporary test purchase terms or trial information.
